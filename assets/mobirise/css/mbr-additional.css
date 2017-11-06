@@ -1958,12 +1958,18 @@ body {
 .cid-qzWBBuNI5s {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #5b686b;
+  background-color: #efefef;
+}
+.cid-qzWBBuNI5s .mbr-section-subtitle DIV {
+  color: #3c3c3c;
+}
+.cid-qzWBBuNI5s I {
+  color: #3c3c3c;
 }
 .cid-qzWD3TAEGE {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #465052;
+  background-color: #efefef;
 }
 .cid-qzWD3TAEGE .mbr-section-subtitle {
   color: #767676;
@@ -1971,7 +1977,7 @@ body {
 .cid-qzLC1ei8Lj {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #465052, #465052);
+  background: linear-gradient(45deg, #eeeeee, #eeeeee);
 }
 .cid-qzLC1ei8Lj .list-group-item {
   padding: .75rem 3.25rem;
