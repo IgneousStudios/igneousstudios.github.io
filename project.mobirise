@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "team.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 144,
     "versionPublish": "4.3.4",
@@ -844,10 +844,10 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle DIV": {
-              "color": "#3c3c3c"
+              "color": "#090707"
             },
             "I": {
-              "color": "#3c3c3c"
+              "color": "#090707"
             }
           },
           "_name": "content5",
